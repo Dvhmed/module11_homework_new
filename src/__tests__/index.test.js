@@ -1,5 +1,5 @@
 import { describe } from '@jest/globals';
-import { countDown } from "./index.js";
+import { countDown } from "../index.js";
 import expect from 'expect';
 
 describe('countDown', () => {
